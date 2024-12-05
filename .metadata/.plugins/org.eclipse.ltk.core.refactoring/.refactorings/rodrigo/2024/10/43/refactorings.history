@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Ejercicio2.java&apos; to &apos;rodrigo/src/ejercicios_While&apos;&#x0D;&#x0A;- Original project: &apos;rodrigo&apos;&#x0D;&#x0A;- Destination element: &apos;rodrigo/src/ejercicios_While&apos;&#x0D;&#x0A;- Original element: &apos;ejercicios_While.Ejercicio2.java&apos;" description="Copy compilation unit" destination="/src&lt;ejercicios_While" element1="/src&lt;ejercicios_While{Ejercicio2.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1729775916165" units="1" version="1.0"/>
+</session>

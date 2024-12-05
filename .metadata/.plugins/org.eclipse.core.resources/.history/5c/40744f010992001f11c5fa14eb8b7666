@@ -1,0 +1,26 @@
+package ejercicios_While;
+
+import java.util.Scanner;
+
+public class Ejercicio2 {
+
+	public static void main(String[] args) {
+		Scanner entrada = new Scanner(System.in);
+		
+		int cuantasE = 0;
+		
+		String linea;
+		
+		do {
+			System.out.print("Introduce texto: ");
+			
+			linea = entrada.nextLine().toLowerCase();
+			
+		} while (!linea.equals(""));
+		
+		entrada.close();
+		
+		System.out.println("Hay " + cuantasE + " Es");
+	}
+
+}

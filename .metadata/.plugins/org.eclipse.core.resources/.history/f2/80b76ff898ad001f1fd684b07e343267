@@ -1,0 +1,26 @@
+package ejericicos_Bucles2;
+
+import java.util.Scanner;
+
+public class Ejercicio12 {
+
+	public static void main(String[] args) {
+		Scanner entrada = new Scanner(System.in);
+		
+		int opcion;
+		
+		do {
+			System.out.println("Menu de opciones:"+
+					"\t\n1.- Convertir a Binario"+
+					"\t\n2.- Convertir a Hexadecimal"+
+					"\t\n3.- Convertir a Octal"+
+					"\t\n4.- Salir");
+			System.out.print("Opcion: ");
+			opcion = entrada.nextInt();
+			
+		} while(opcion != 3);
+		entrada.close();
+
+	}
+
+}
