@@ -15,6 +15,7 @@ public class Ejercicio03 {
 		} else {
 			System.out.println("No es digito");
 		}
+		entrada.close();
 
 	}
 

@@ -1,6 +1,6 @@
-package tarea_27N;
+package ejercicio05;
 
-public class Prueba {
+public class Ejercicio05 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

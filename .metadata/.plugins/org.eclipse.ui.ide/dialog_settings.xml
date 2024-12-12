@@ -6,6 +6,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\Proyectos\DAM\Entornos de desarrollo\ejercicios Debugger"/>
 			<item value="C:\Users\Rodri\OneDrive\Escritorio\Examen1p DiegoViver\Examen1p DiegoViver"/>
 			<item value="D:\Proyectos\DAM\Programacion\Ejercicios\Eclipse\rodrigo\src\ejemplos"/>
 			<item value="D:\Proyectos\DAM\Programacion\Ejercicios\Ejercicios basicos! 1_1"/>
@@ -14,7 +15,7 @@
 		<section name="SmartImportWizard.dialogBounds">
 			<item key="DIALOG_X_ORIGIN" value="250"/>
 			<item key="DIALOG_Y_ORIGIN" value="47"/>
-			<item key="DIALOG_WIDTH" value="935"/>
+			<item key="DIALOG_WIDTH" value="990"/>
 			<item key="DIALOG_HEIGHT" value="726"/>
 			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 		</section>
@@ -34,6 +35,8 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\Rodri\OneDrive\Escritorio\Programacion\Eclipse\ejercicios_Debug"/>
+			<item value="C:\Users\Rodri\OneDrive\Escritorio\Programacion\Eclipse\rodrigo"/>
 			<item value="C:\Users\Rodri\OneDrive\Escritorio\Examen\Examen"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
@@ -44,6 +47,19 @@
 			<item key="DIALOG_Y_ORIGIN" value="47"/>
 			<item key="DIALOG_WIDTH" value="700"/>
 			<item key="DIALOG_HEIGHT" value="861"/>
+			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+		</section>
+	</section>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.jdt.ui.java"/>
+		</list>
+		<section name="NewWizard.dialogBounds">
+			<item key="DIALOG_X_ORIGIN" value="0"/>
+			<item key="DIALOG_Y_ORIGIN" value="0"/>
+			<item key="DIALOG_WIDTH" value="700"/>
+			<item key="DIALOG_HEIGHT" value="500"/>
 			<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
 		</section>
 	</section>
