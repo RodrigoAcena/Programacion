@@ -5,11 +5,14 @@ import java.util.Scanner;
 public class Ejercicio09 {
 
 	public static void main(String[] args) {
-		Scanner entrada = new Scanner(System.in);
+		Scanner entrada = new Scanner (System.in);
+		System.out.println("Introduce la longitud: ");
+		int longi = entrada.nextInt();
 		
-		System.out.println("Introduce una longitud: ");
-		int longitud = entrada.nextInt();
-
+		String cadenaGenerada = Metodos09.palabraAleatoria(longi);
+		
+		System.out.println("Tu Cadena Generada: " + cadenaGenerada);
+		entrada.close();
 	}
 
 }

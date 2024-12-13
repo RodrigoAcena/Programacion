@@ -13,7 +13,7 @@ public class Ejercicio04 {
 		
 		int contador = 2;
 		
-		while(num > 1 && contador <= num && Metodos.esPrimo(contador)) {
+		while(num > 1 && contador <= num && Metodos04.esPrimo(contador)) {
 			System.out.println(contador);
 			contador++;
 		}

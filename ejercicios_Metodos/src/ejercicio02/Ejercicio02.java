@@ -15,8 +15,8 @@ public class Ejercicio02 {
 		int num2 = entrada.nextInt();
 		entrada.close();
 		
-		System.out.println("Numero maximo: " + Metodos.maximo(num1, num2));
-		System.out.println("Numero minimo: " + Metodos.minimo(num1, num2));
+		System.out.println("Numero maximo: " + Metodos02.maximo(num1, num2));
+		System.out.println("Numero minimo: " + Metodos02.minimo(num1, num2));
 
 	}
 

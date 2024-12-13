@@ -15,9 +15,19 @@ public class Ejercicio08 {
 		int num2 = entrada.nextInt();
 		entrada.close();
 		
-		System.out.println(Metodos.aleatorio(num1, num2));
+		int min = Math.min(num1, num2);
+		int max = Math.max(num1, num2);
 		
+//		if (num1 > num2) {
+//			int extra = num1;
+//			num2 = num1;
+//			num1 = extra;
+//		}
+		
+	    System.out.println("Número aleatorio entre [" + min + " - " + max + "]: " + Metodos08.aleatorio(min, max));
 
 	}
+
+		
 
 }

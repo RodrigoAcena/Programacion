@@ -11,7 +11,7 @@ public class Ejercicio05 {
 		System.out.print("Introduce un límite: ");
 		int limite = sc.nextInt();
 		
-		System.out.println("Número aleatorio: " + Metodos.aleatorio(limite));
+		System.out.println("Número aleatorio: " + Metodos05.aleatorio(limite));
 		
 		sc.close();
 

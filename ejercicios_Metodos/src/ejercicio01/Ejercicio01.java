@@ -10,7 +10,7 @@ public class Ejercicio01 {
 		System.out.print("Introduce una edad: ");
 		int edad = entrada.nextInt();
 		
-		if(Metodos.esMayorDeEdad(edad)) {
+		if(Metodos01.esMayorDeEdad(edad)) {
 			System.out.println("Es mayor de edad");
 		} else {
 			System.out.println("Es menor de edad");

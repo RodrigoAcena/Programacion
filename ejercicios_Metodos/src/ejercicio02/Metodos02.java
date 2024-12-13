@@ -1,6 +1,6 @@
 package ejercicio02;
 
-public class Metodos {
+public class Metodos02 {
 	static int maximo(int a, int b) {
 		if(a > b) {
 			return a;

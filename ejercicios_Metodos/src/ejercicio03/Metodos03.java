@@ -1,6 +1,6 @@
 package ejercicio03;
 
-public class Metodos {
+public class Metodos03 {
 	static boolean esDigito(char letra) {
 		if(letra == '1') {
 			return true;

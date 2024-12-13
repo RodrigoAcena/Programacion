@@ -1,6 +1,6 @@
 package ejercicio05;
 
-public class Metodos {
+public class Metodos05 {
 	static int aleatorio(int limite) {
 		int num = (int) (Math.random() * (limite + 1));
 		return num;

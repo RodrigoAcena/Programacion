@@ -10,7 +10,7 @@ public class Ejercicio03 {
 		System.out.print("Introdece un caracter: ");
 		char letra = entrada.next().charAt(0);
 		
-		if(Metodos.esDigito(letra)) {
+		if(Metodos03.esDigito(letra)) {
 			System.out.println("Es digito");
 		} else {
 			System.out.println("No es digito");

@@ -1,6 +1,6 @@
 package ejercicio04;
 
-public class Metodos {
+public class Metodos04 {
 	static boolean esPrimo(int a) {
 		boolean dividido = false;
 		
